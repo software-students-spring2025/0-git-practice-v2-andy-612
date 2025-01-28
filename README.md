@@ -1,6 +1,6 @@
 # Git Practice
 
-## Article
+## Article link
 
 [DeepSeek Article](https://www.nytimes.com/2025/01/27/technology/what-is-deepseek-china-ai.html)
 
