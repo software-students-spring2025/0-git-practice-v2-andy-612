@@ -10,4 +10,4 @@ Coverage on DeepSeek was all over the news today, and it spurred panick among in
 
 My interpretation is that as the investors and engineers adjust their perspectives and find more efficient ways, or imitate DeepSeek's bootstrapped process, to train new models, the pay for development/engineering jobs related to AI would come down as well. Overall, it was very interesting to see how the stock market reacted to this news today and how the sell-off related to NVIDIA panned out.
 
-## Comment
+## Comments from others
