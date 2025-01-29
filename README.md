@@ -11,3 +11,7 @@ Coverage on DeepSeek was all over the news today, and it spurred panick among in
 My interpretation is that as the investors and engineers adjust their perspectives and find more efficient ways, or imitate DeepSeek's bootstrapped process, to train new models, the pay for development/engineering jobs related to AI would come down as well. Overall, it was very interesting to see how the stock market reacted to this news today and how the sell-off related to NVIDIA panned out.
 
 ## Comments from others
+### Willow
+The AI boom has, in my opinion, been somewhat a bubble - like the .com bubble before it, as well as blockchain to a degree, AI has become the buzzword of the day, becoming a necessity for any given startup to engage with, even if its not really an applicable technology. I think DeepSeek is the start of that bubble popping, and we'll see way fewer AI jobs stateside as it becomes clearer that the overinvestment in it is unnecessary.
+
+
